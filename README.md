@@ -10,6 +10,7 @@ Obs.: If you not start your commit with one of the followings prefix it will thr
 - npm 8.x
 
 ## How to Run
+
 ```bash
 npm install
 npx husky install ## setup husky on .git folder 
