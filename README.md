@@ -18,3 +18,4 @@ npx husky install ## setup husky on .git folder
 chmod a+x .husky/commit-msg ## add permision to execute script
 ```
 
+tst
