@@ -1,9 +1,9 @@
 ## Commit Pattern
 This repository contains the settings needed to create a commit pattern in the commitlint format
 
-**Commit Available Prefix**
+**Available Commit Prefix** <br />
 [build, chore, ci, docs, feat, fix, perf, refactor, revert, style, test]
-
+<br />
 Obs.: If you not start your commit with one of the followings prefix it will thrown an error
 
 ## Requirements
