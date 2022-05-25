@@ -11,6 +11,7 @@ Obs.: If you not start your commit with one of the followings prefix it will thr
 
 ## How to Run
 ```bash
+npm install
 npx husky install ## setup husky on .git folder 
 chmod a+x .husky/commit-msg ## add permision to execute script
 ```
